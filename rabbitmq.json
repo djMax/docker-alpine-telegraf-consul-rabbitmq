@@ -1,0 +1,10 @@
+{
+  "service": {
+    "name": "rabbitmq",
+    "tags": [
+      "mq",
+      "master"
+    ],
+    "port": 5672
+  }
+}
